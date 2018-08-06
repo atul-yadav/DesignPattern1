@@ -5,6 +5,7 @@ public class ObserverPatternTest {
 
 	public static void main(String[] args) {
 		//create subject
+		
 		MyTopic topic = new MyTopic();
 		
 		//create observers

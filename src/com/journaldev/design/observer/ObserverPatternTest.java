@@ -16,6 +16,7 @@ public class ObserverPatternTest {
 		//register observers to the subject
 		topic.register(obj1);
 		topic.register(obj2);
+		
 		topic.register(obj3);
 		
 		//attach observer to subject
